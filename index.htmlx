@@ -42,11 +42,18 @@
 
         </div>
         <br>
+        <div>
+            <label>Select Age Group</label>
+            <select name="agegroup" id="">
+                <option value="under 18">under 18</option>
+                <option value="18-30">18-30</option>
+                <option value="30-50">30-50</option>
+                <option value="50+">50+</option>
+            </select>
+        </div>
+        <br>
         <button>Register!</button>
     </form>
     <br>
-    <div>
-        <a href="index.html">index</a>
-    </div>
 </body>
 </html>
